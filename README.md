@@ -1,6 +1,7 @@
 # timbre-mlog
 
-Route c3p0 connection pool logging through timbre logger.
+Route [c3p0](https://github.com/swaldman/c3p0) connection pool logging 
+through [timbre](https://github.com/ptaoussanis/timbre) logger.
 
 
 ## Usage
